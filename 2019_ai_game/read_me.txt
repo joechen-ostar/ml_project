@@ -1,3 +1,0 @@
-1. 竞赛官网连接：https://www.pkbigdata.com/common/cmpt/2019%E6%95%B0%E6%8D%AE%E6%99%BA%E8%83%BD%E7%AE%97%E6%B3%95%E5%A4%A7%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html
-
-2. 19班 http://tpcst.ibeifeng.com/Video/CourseVideo/1142592e-d340-44b4-b8e9-796d04076262?chapterName=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E9%9F%A9%E8%B6%85%E8%80%81%E5%B8%88&courseName=AI%E5%B0%B1%E4%B8%9A%E5%8D%81%E4%B9%9D%E7%8F%AD%E5%91%A8%E6%9C%AB%E5%BD%95%E5%B1%8F&sectionId=1caafbc8-38ed-4c13-8dcf-61940e7b143a
