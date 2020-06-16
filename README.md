@@ -1,2 +1,2 @@
 # ml_project
-personal_ml_project_sharing
+Personal ML project sharing
